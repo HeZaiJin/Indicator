@@ -108,7 +108,7 @@ public class IndicatorView extends View {
     }
 
     /**
-     * set total count 
+     * set total count
      * @param count
      */
     public void setCount(int count) {

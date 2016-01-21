@@ -1,1 +1,1 @@
-include ':app', ':Customindicator'
+include ':app', ':indicator'

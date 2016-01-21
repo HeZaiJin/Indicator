@@ -10,8 +10,8 @@
             <enum name="center" value="0" />
             <enum name="right" value="1" />
         </attr>
-        <attr name="padding" format="integer" />
-        <attr name="radius" format="integer" />
+        <attr name="padding" format="dimension" />
+        <attr name="radius" format="dimension" />
         <attr name="select_drawable" format="reference" />
         <attr name="default_drawable" format="reference" />
     </declare-styleable>
