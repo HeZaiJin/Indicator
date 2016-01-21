@@ -108,8 +108,7 @@ public class IndicatorView extends View {
     }
 
     /**
-     * 设置总量
-     *
+     * set total count 
      * @param count
      */
     public void setCount(int count) {
@@ -118,14 +117,14 @@ public class IndicatorView extends View {
     }
 
     /**
-     * 设置选中的indicator颜色
+     * set selected indicator color
      */
     public void setSelectedColor(int color) {
         this.mSelectedColor = color;
     }
 
     /**
-     * 设置未选中的indicator颜色
+     * set default indicator color
      */
     public void setDefaultColor(int color) {
         this.mDefaultColor = color;
